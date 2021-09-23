@@ -1,0 +1,12 @@
+model\LoginInfo.class
+dao\ProductManagementDAO.class
+action\UpdateAction.class
+dbutil\DBUtil.class
+model\Product.class
+dao\LoginDAO.class
+action\ChangeLocalAction.class
+action\DeleteAction.class
+action\WelcomeAction.class
+action\UpdateDataAction.class
+action\AddAction.class
+action\LoginAction.class
